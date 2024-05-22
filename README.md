@@ -2,7 +2,7 @@
 <br/>
 🌱 I’m currently learning Web and App development. <br/><br/>
 🎓 I study IT methods applied to business management. <br/><br/>
-🔭 I’m currently working on plenty of projects right now, maybe too much ... Might be a react-native app, a Angular 17 web site, Angular 16 online game, whatever :octocat: <br/><br/>
+🔭 I’m currently working on plenty of projects right now, maybe too much ... Might be a react-native app, a Angular 17 web site, Angular 16 online game, a R/Shiny app... Whatever :octocat: <br/><br/>
 🔎 Interested by the world that surrounds me, passionated by lot of things beside IT (motorsports, photography, wachtmaking ...) 
 
 # Socials
