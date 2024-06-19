@@ -1,4 +1,4 @@
-# Hello there ! 👋 I am Vincent, a Full Stack Developper.
+# Hello there ! 👋 I am Vincent, a modest code eater.
 <br/>
 🌱 I’m currently learning Web and App development. <br/><br/>
 🎓 I study IT methods applied to business management. <br/><br/>
